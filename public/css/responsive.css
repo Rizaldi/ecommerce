@@ -1,0 +1,413 @@
+/* large desktop :1366px. */
+@media (min-width: 1200px) and (max-width: 1400px) { 
+    
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .slider-banner h2 {font-size: 100px}
+    .slider-banner h3 {font-size: 50px}
+    .facilitie-content h3 {font-size: 14px}
+    .facilitie-content {padding-left: 8px; padding-top: 22px}
+    .offer-img {margin-right: 25px}
+    .feature-content .price-box span, .price-box span del {font-size: 14px}
+    .price-box span.per {margin-left: 5px}
+    .single-widget h2 {font-size: 16px}
+    .footer-social ul li {margin: 10px 5px 0 0}
+    .feature-item:hover {border-color: #ea3a3c #ea3a3c #ea3a3c}
+    .slider-banner h1 {font-size: 75px;}
+    .slider-banner h4, .banner-slider.three .single-slide.slider-two .slider-banner h3 {font-size: 60px}
+    .product-seller.owl-carousel .owl-nav {top: -39px}
+    .header-phone .fa-volume-control-phone {font-size: 18px}
+    .header-phn-info span {font-size: 12px}
+    .nav-menu img {margin-right: 9px}
+    .nav-menu > ul > li > a {font-size: 12px; padding: 8.45px 12px 7.35px}
+    .three .facilitie-content h3 {font-size: 12px}
+    .banner-slider.three .slider-banner h1 {font-size: 55px}
+    .seller-content {width: 74%}
+    .seller-tab {width: 26%}
+    .facilitie-icon {margin-right: 5px; width: 50px}
+    .three .single-facilitie {padding: 0 15px}
+    .three .facilitie-content p {font-size: 11px}
+    .three .single-facilitie:nth-child(2), .three .single-facilitie:nth-child(3) {padding: 0 10px}
+    .five .header-cart.main > a {min-width: 100px}
+    .col-women-left, .col-women-right{width: 50%}
+    .footer-area .single-widget h2 {font-size: 17px}
+    .five.three .header-search i {margin-left: 0px}
+    #search-box-form {right: 100px}
+    .three .main-menu > nav > ul > li > a{padding:  21.5px 16px}
+    .five.three .main-menu > nav > ul > li > a {padding:  21.5px 12px}
+    .five .menu-wrapper {margin-left: 20px}
+    .five .logo.main {padding-top: 10px}
+    .main-header.three .main-menu > nav > ul > li:first-child > a::before {line-height: 1}
+    .main-menu > nav > ul > li.megamenu > ul > li {width: 174px}
+    .main-header.five .main-menu > nav > ul > li:first-child > a::before {line-height: 24px}
+    .single-facilitie {padding: 16px 28px}
+    .sub-img {margin-right: 10px}
+    .single-left-widget .sub-content.feature-content > a {line-height: 22px}
+    .blog-img {margin-right: 15px}
+    .blog-con h3 a {font-size: 15px; line-height: 25px; padding: 5px 0 6px}
+    .blog-con > p {font-size: 13px; line-height: 17px}
+    .banner-area.three .col-md-4 .banner-image.mar{margin-bottom: 23px}
+    .banner-area.three .col-md-4 .banner-image.mars{margin-top: 23px}
+    .three .facilitie-icon {width: 58px}
+    .five .slider-banner h3 {margin-top: 0; font-size: 35px}
+    .single-panel:first-child {padding-right: 0}
+    .banner-slider.four .single-slide.slider-two a {margin: 15px auto 0}
+    .single-slide, .banner-slider.three .single-slide {padding: 100px 0}
+    .single-slide.slide-two, .banner-slider.three .single-slide.slide-two, .banner-slider.three .single-slide.slider-two {padding: 108px 0}
+    .banner-slider.three .single-slide{padding: 105px 0}
+    .banner-slider.four .single-slide.slider-two {padding: 150px 0}
+    .slider-area.four .single-slide {padding: 70px 0 83px}
+    .banner-slider.four .single-slide.slider-two {padding: 118px 0 130px}
+    .slider-area.five .single-slide {padding: 112px 0 135px}
+}
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) { 
+    .header-phn-info p, .header-phn-info span, .footer-area .single-widget > ul > li > a {font-size: 12px}
+    .header-cart.main > a {margin-right: 60px; min-width: 70px; background: transparent; min-height: 83px}
+    .header-cart.main span{ font-size: 13px; line-height: 28px}
+    .header-cart.main span.counter{ font-size: 14px;height: 20px; line-height: 20px; right: 4px; top: 13px; width: 20px}
+    .header-phone .fa-volume-control-phone {font-size: 20px; padding-right: 5px}
+    .slider-banner h2 {font-size: 65px}
+    .slider-banner h3 {font-size: 35px}
+    .slider-banner h4 {font-size: 50px}
+    .slider-banner h1 {font-size: 55px}
+    .slide-two .slider-banner a.banner-btn {margin: 12px 0 0; font-size: 13px}
+    .two .slide-two .slider-banner a.banner-btn {margin: 30px 0 0}
+    .slider-banner a.banner-btn {margin: 8px 0 0}
+    .single-facilitie {display: block; text-align: center; padding: 16px 15px}
+    .facilitie-icon {margin: auto; padding: 15px 0}
+    .facilitie-content {padding: 10px 0}
+    .facilitie-content p {margin-bottom: 0}
+    .feature-item:hover {border-color: #ea3a3c #ea3a3c #ea3a3c}
+    .offer-img {margin-right: 20px}
+    .offer-details h2 a, .price-box span {font-size: 22px}
+    .offer-details h2 a{line-height: 22px}
+    .timer .timer-grid .cdown { margin-right: 5px; width: 25%}
+    .offer-owl {padding: 30px 30px 0}
+    .blog-img {float: none; margin-right: 0px; width: 100%}
+    .container .row .col-lg-4.col-md-6:last-child, .shop-left-sidebar{margin-top: 30px}
+    .single-widget h2, .single-widget > ul > li > a {font-size: 12px}
+    .footer-social ul li {font-size: 14px; height: 28px; line-height: 28px; margin: 10px 4px 0 0; width: 28px}
+    .footer-logo.pb-30{padding-bottom: 15px}
+    .copyright p, .cart-main-area .cart-table table th {font-size: 13px}
+    .footer-bottom {padding: 12px 0}
+    .mobile-menu-area {display: block}
+    .display-none{display: none}
+    .header-cart.main > i::before{color: #ea3a3c}
+    .header-cart.main span{color: #000}
+    .main-header {padding: 15px 0}
+    .header-cart.main > a {top: -17px}
+    .product-seller.owl-carousel .owl-nav {top: -39px}
+    .offer-details .timer .timer-grid .cdown {width: 25%}
+    .test-content p{font-size: 14px}
+    .offer-content p span, .category-nav{display: none}
+    .banner-slider, .facilities-area.three {margin-left: 0px}
+    .banner-slider.three .slider-banner h1 {font-size: 52px}
+    .three .facilitie-content {padding-top: 0px}
+    .three .single-facilitie, .three .single-facilitie:nth-child(2), .three .single-facilitie:nth-child(3) {padding: 0 25px}
+    .seller-content {width: 65%}
+    .seller-tab {width: 35%}
+    .five .slider-banner h3 {font-size: 25px; margin-top: 0}
+    .three .feature-tab ul li a {font-size: 16px}
+    .collection-content h2 {font-size: 20px; margin-bottom: 15px; padding-bottom: 15px;}
+    .collection-content h3 {font-size: 20px}
+    .collection-content p, .offer-content h2 {font-size: 28px}
+    .collection-content a.look-book {padding: 8px 10px}
+    .col-women-left{width: 51.7%}
+    .col-women-right{width: 48.3%}
+    .new-comment-post .default-btn {margin-bottom: 30px;}
+    .login-left .sign-in {margin-bottom: 40px;}
+    .blog-details-area {padding-bottom: 0}
+    .p-image {padding: 20px}
+    .single-product-image .p-image {padding: 0px}
+    .cart-main-area .cart-table table th {padding: 5px}
+    .buttons-set .button{margin-bottom: 30px}
+    .ht-shipping-content, .amount-totals {margin-bottom: 0px}
+    .footer-area .single-widget h2 {font-size: 13px}
+    .footer-add p {font-size: 12px;}
+    .contact-address-info {padding: 40px 60px 36px}
+    .login-area{padding-bottom: 30px}
+    .details-content {margin-left: 8px; margin-top: 15px}
+    .shop-left-sidebar .shop-banner, .header-sticky.sticky{display: none}
+    .five.three .header-cart.main > a{margin-right: 72px}
+    .five.three .header-search i {margin-left: -90px}
+    .mean-container .mean-nav {margin-top: 0}
+    .three .mean-container .mean-nav {margin-top: 22px}
+    .offer-details {margin: 0 0 25px}
+    .offer-details .timer .timer-grid span.counting {font-size: 16px}
+    .header-cart.main a > i {color: #ea3a3c; margin-top: 22px}
+    .three .header-cart.main a > i {color: #EA3A3C}
+    .five .header-cart.main a > i {color: #FF5C00}
+    .header-cart.main a > i {color: #ea3a3c; margin-top: 22px}
+    .modal-dialog{width: 90%}
+    #grid .feature-item {width: 50%}
+    .shop-content-wrapper .filter-by:first-child{display: none}
+    .header-box {box-shadow: none}
+    .mainmenu-area.mb-60{margin-bottom: 0px}
+    .shop-area-start.leftsidebar{margin-top: 60px}
+    #list .feature-content p a {padding: 0px}
+    .description p {margin: 4px 0 15px}
+    .offer-content h2, .offer-content p, .two .offer-content h2, .two .offer-content p {margin-bottom: 30px}
+    .offer-content p {padding: 0 60px}
+    .three .mean-container a.meanmenu-reveal {margin-top: -35px}
+    #quickview-wrapper .details-content{margin-left: 0}
+    .shop-carousel.owl-carousel .owl-nav {display: block}
+    .header-cart.main ul.submenu-mainmenu {top: 132%}
+    .three .header-cart.main ul.submenu-mainmenu {top: 150%}
+    .five .header-cart.main ul.submenu-mainmenu {top: 146%}
+    .three .facilitie-icon {margin:auto}
+    .banner-area.three .col-md-4 .banner-image.mar{margin-bottom: 17px}
+    .banner-area.three .col-md-4 .banner-image.mars{margin-top: 17px}
+    .banner-slider.three .single-slide.slider-two .slider-banner h3 {font-size: 60px}
+    .footer-logo p {font-size: 13px; line-height: 22px; margin-top: 20px; margin-bottom: 0px}
+    .footer-add p, .footer-add a {font-size: 13px}
+    .footer-add h4 {font-size: 13px; padding-right: 0}
+    .footer-add::before {font-size: 13px; line-height: 20px; padding-right: 0}
+    .footer-area .single-widget > ul > li > a {line-height: 35px;}
+    .owl-carousel .owl-nav div i {font-size: 12px}
+    .blog-details-area .single-widget:last-child{margin-bottom: 10px}
+    .single-panel:first-child {padding-right: 0}
+    .subtitle > p{float: none;}
+    .login-left .sign-in {margin-left: 0}
+/*    .two .slide-two .slider-banner a.banner-btn {margin: 26px 0 0px}*/
+    .banner-slider.four .single-slide.slider-two a {margin: 15px auto 0px}
+    .single-slide, .banner-slider.three .single-slide {padding: 100px 0}
+    .single-slide.slide-two, .banner-slider.three .single-slide.slide-two {padding: 98px 0}
+    .banner-slider.three .single-slide.slider-two a {margin: 32px 0 0}
+    .banner-slider.three .single-slide.slider-two {padding: 108.5px 0}
+    .slider-area.five .single-slide {padding: 117px 0 130px}
+}
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .account-usd > ul > li > a {border-left: none}
+    .account-usd ul li a {padding: 0 8px 0 0px}
+    .mobile-menu-area, .top-left {display: block}
+    .display-none, .category-nav, .header-phone.three, .price-box span.per{display: none}
+    .top-left, .logo.main, .test-content p, .copyright p, .payment {text-align: center}
+    .header-cart.main > i::before{color: #ea3a3c}
+    .header-cart.main span{color: #fff}
+    .main-header {padding: 15px 0}
+    .header-cart.main > a{margin-right: 60px; min-width: 80px; background: transparent; min-height: 78px; top: -8px}
+    .three .header-cart.main > a, .three.five .header-cart.main > a{margin-right: 60px; min-width: 70px; background: transparent; min-height: 70px; top: -10px}
+    .header-cart.main span{font-size: 13px; line-height: 28px}
+    .header-cart.main span.counter{ font-size: 14px;height: 20px; line-height: 20px; right: 6px; top: 11px; width: 20px}
+    .header-phone .fa-volume-control-phone {font-size: 20px; padding-right: 5px}
+    .search-box{padding-bottom: 18px}
+    .header-phn-info span {font-size: 14px}
+    .slider-banner h2 {font-size: 50px}
+    .slider-banner h3 {font-size: 24px}
+    .slider-banner h4 {font-size: 30px}
+    .slider-banner h1 {font-size: 34px}
+    .slider-banner h5 {font-size: 11px}
+    .slider-banner a.banner-btn {font-size: 14px}
+    .slide-two .slider-banner a.banner-btn {margin: 15px 0 0px}
+    .slider-banner a.banner-btn {margin: 10px 0 0}
+    .banner-image {margin-top: 17px; margin-bottom: 0}
+    .banner-area .row .col-md-4:last-child{margin-bottom: 30px}
+    .single-facilitie {display: block; text-align: center; margin-bottom: 20px}
+    .col-md-4:last-child .single-facilitie {margin-bottom: 0px}
+    .facilitie-icon {padding: 15px 0px}
+    .facilitie-content {padding: 10px 0}
+    .facilitie-content p {margin-bottom: 0}
+    .offer-img {float: none; margin-right: 0}
+    .timer .timer-grid .cdown {margin-right: 5px; width: 35%}
+    .offer-details h2 a {font-size: 24px}
+    .price-box span {font-size: 22px}
+    .offer-details {margin: 20px 0 10px}
+    .test-icon {float: none; margin-bottom: 20px; margin-right: 0; text-align: center}
+    .test-content h3 {font-size: 15px; text-align: center}
+    .test-content h3 span, .footer-add p, .footer-add h4, .copyright p {font-size: 12px}
+    .blog-img {float: none; margin-right: 0}
+    .price-box span del {font-size: 14px}
+    .blog-area .container .row .col-md-6:nth-child(2) .common-area{padding: 20px 0px}
+    .footer-add::before {font-size: 14px; padding-right: 3px}
+    .footer-social ul li {font-size: 16px; height: 35px; line-height: 35px; margin: 10px 5px 0 0; width: 35px}
+    .single-widget form {margin-bottom: 0px}
+    .col-md-8 .single-widget{margin-top: 35px;}
+    .main-footer {padding: 30px 0}
+    #mc_embed_signup_scroll > button {padding: 0 15px}
+    .single-widget form input {padding: 0 100px 0 2px}
+    .footer-bottom {padding: 10px 0 15px}
+    .feature-area .feature-title {display: block}
+    .feature-tab ul li {padding: 0px 13px}
+    .feature-tab ul {margin: 0}
+    .banner-image img{width: 100%}
+    .offer-details .timer .timer-grid .cdown {width: 25%}
+    .footer-area .single-widget form {margin-bottom: 20px}
+    .arrival-tab ul {width: 290px}
+    a.add {margin-bottom: 0px;}
+    .arrival-tab ul li a {padding: 0 17px}
+    .banner-slider, .facilities-area.three {margin-left: 0px}
+    .banner-slider.three .single-slide .slider-banner {margin-left: 0px}
+    .banner-slider.three .slider-banner h5 {font-size: 10px}
+    .banner-slider.three .slider-banner h4 {font-size: 55px}
+    .banner-slider.three .slider-banner h1 {font-size: 30px}
+    .banner-slider.four .single-slide.slider-two .slider-banner h2, .banner-slider.four .single-slide.slider-two .slider-banner h3{font-size: 22px}
+    .three .single-facilitie {width: 100%}
+    .facilities-area.three, .shop-item-filter, .shop-content-wrapper {display: block}
+    .three .facilitie-icon {margin: 0 auto}
+    .three .facilitie-content, .arrival-area.two {padding-top: 0px;}
+    .three .feature-tab ul li a {font-size: 14px; padding: 0 23px}
+    .deal-left, .seller-tab{margin-bottom: 30px}
+    .seller-tab, .seller-content, #grid .feature-item {width: 100%}
+    .account-usd ul {float: none; text-align: center}
+    .banner-slider.four .single-slide .slider-banner h4 {font-size: 35px}
+    .banner-slider.four .single-slide h1 {font-size: 35px}
+    .banner-slider.four .single-slide .slider-banner h5 {margin-top: 0px}
+    .banner-slider.four .single-slide.slider-two .slider-banner h5 {font-size: 18px}
+    .facilitie-icon {margin: auto}
+    .three .feature-tab ul li a, .five.three .feature-tab ul li a {font-size: 11px; padding: 0 7px}
+    .two .offer-content p {margin-bottom: 30px}
+    .slider-area.five .single-slide { position: relative}
+    .five .feature-tab ul li {padding: 0 2px}
+    .collection-area, .products-img {display: block;}
+    .three.women-area .feature-tab ul li a {font-size: 18px}
+    .col-women-left, .col-women-right, .feature-img img{width: 100%}
+    .blog-page-area .col-md-6:last-child .single-blog{padding-bottom: 20px}
+    .new-comment-post .default-btn{margin-bottom: 30px;}
+    .blog-details-area {padding-bottom: 0}
+    .blog-details-text > p.quote {margin: 40px 25px 27px 55px}
+    .comment-information > span {display: block; float: left; line-height: 28px}
+    .comment-information > span a:first-child {margin-left: 0}
+    .comment-information > span a:last-child::after {top: -5px}
+    .single-comments.pl-100{padding-left: 50px}
+    .cart-main-area .cart-table table th {padding: 5px 20px}
+    .buttons-set .button, .google-map-area, .common-area {margin-bottom: 30px}
+    .login-left .sign-in {margin-bottom: 40px;}
+    .ht-shipping-content, .amount-totals, .col-lg-4:last-child .common-area {margin-bottom: 0px}
+    .cart-main-area .cart-table table td.p-image a {width: 123px}
+    .all-cart-buttons button:last-child, .all-cart-buttons button:nth-child(2), .all-cart-buttons button:first-of-type {display: block; float: none; margin: 10px auto; width: 238px}
+    .amount-totals > p {text-align: left}
+    .amount-totals .button{float: none}
+    .col-md-12:last-child .ht-shipping-content .amount-totals {margin-bottom: 0}
+    .amount-totals {padding-left: 0}
+    .cart-main-area{padding-bottom: 0}
+    .cart-main-area .cart-table table th, .cart-main-area .cart-table table td {padding: 5px 20px}
+    .cart-main-area .cart-table table td.p-image {padding: 20px}
+    .checkout-area .panel-body {margin-bottom: 30px; padding: 22px 15px}
+    .single-panel, .newsletter-content > input {width: 100%}
+    .single-panel:first-child {padding: 0}
+    .single-panel:last-child {padding: 33px 0 0}
+    .single-contact-adrs {float: none; width: 100%; margin-bottom: 30px}
+    .contact-address-info {padding: 40px 30px 36px}
+    .login-area{padding-bottom: 30px}
+    .subtitle p {line-height: 20px}
+    .subtitle input, .shop-banner img {width: 100%}
+    .sign-in a {margin-left: 0%}
+    .five.three .header-cart.main > a{ top: -12px}
+    .five.three .header-cart.main > span, .five .slider-banner h3::after, .header-sticky.sticky {display: none}
+    .five.three #search-box-form {right: 0; top: 45px}
+    .five.three .header-cart.main ul.submenu-mainmenu {top: 157%}
+    .five .slider-banner p {color: #000; margin: 0; font-size: 12px}
+    .five .slider-banner h3 {color: #000; font-size: 25px; margin-top: 0px}
+    .five .slider-banner a.banner-btn {font-size: 13px; line-height: 33px; margin: 10px 0 0}
+    .sub-content.feature-content {margin-top: 3px}
+    .single-blog.pb-60, .blog-area.pb-50{padding-bottom: 30px}
+    .common-area, .blog-details-area .single-widget:last-child{margin-bottom: 10px}
+    .mean-container .mean-nav {margin-top: 0px}
+    .three .mean-container .mean-nav {margin-top: 22px}
+    .banner-slider.three .single-slide.slider-two .slider-banner h2 {font-size: 30px}
+    .banner-slider.three .single-slide.slider-two .slider-banner h3 {font-size: 26px}
+    .banner-slider.three .single-slide.slider-two .slider-banner h5 {font-size: 15px; padding: 0}
+    .offer-details .timer .timer-grid span.counting, .category-content ul li.head a {font-size: 16px}
+    .slider-area.banner-slider.three{margin-bottom: 30px}
+    .banner-slider.four .single-slide.slider-two a {margin: 15px auto 0px}
+    .header-cart.main a > i {color: #ea3a3c}
+    .three .header-cart.main a > i {color: #EA3A3C}
+    .five .header-cart.main a > i {color: #FF5C00}
+    .five .header-search, .shop-content-wrapper > a{display: none}
+    .newsletter-content > h2 {font-size: 20px; margin-top: 10px}
+    .modal-dialog{width: 95%; height: 330px}
+    .modal-content {padding: 25px}
+    .banner-area .col-6, .blog-page-area .col-6, #list .feature-item .col-6 {flex: 0 0 100%; max-width: 100%}
+    .best-seller-area.three.pt-30{padding-top: 0}
+    .offer-area.two.three.pt-60{padding-top: 30px}
+    .offer-content h2 {font-size: 25px; line-height: 25px; margin-bottom: 30px}
+    .three .mean-container a.meanmenu-reveal {margin-top: -29px}
+    .mean-container .mean-nav ul li a.mean-expand {height: 14px; line-height: 14px; width: 14px; padding: 10px}
+    .header-cart.main ul.submenu-mainmenu {top: 132%}
+    .three .header-cart.main ul.submenu-mainmenu {top: 145%}
+    .new-area.five .col-lg-4{margin-bottom: 30px}
+    .new-area.five .col-lg-4:last-child{margin-bottom: 0}
+    .details-content {margin-left: 0; margin-top: 30px}
+    .tab-content-menu ul li a.active {padding: 0 25px}
+    .feature-area.three .tab-content-menu ul li a.active {padding: 0px 5px}
+    .shop-left-sidebar, .shop-page-banner{margin-top: 30px}
+    .mainmenu-area.mb-60{margin-bottom: 0px}
+    .header-box {box-shadow: none}
+    .shop-content-wrapper .filter-by:first-child{margin-bottom: 10px}
+    #list .description p {font-size: 12px}
+    .cart-main-area select.country, .postal-code > input, .checkout-area .customer-name div, .checkout-area .customer-info div, .customer-info div, .city-country div {width: 100%}
+    .customer-name > div:nth-child(1), .customer-info > div:nth-child(1), .city-country > div:first-child{padding-right: 0px}
+    .customer-name > div:nth-child(2), .customer-info > div:nth-child(2), .city-country > div:nth-child(2){padding-left: 0px}
+    .city-country, .customer-info .telephone{padding-top: 15px}
+    .checkout-area .panel-body {padding: 10px 5px}
+    .checkout-table thead th, .checkout-table tbody td.p-name, .checkout-table tfoot tr:first-child, .checkout-table tfoot tr:last-child, .wishlist-table table .product-add-to-cart > a {font-size: 12px}
+    .wishlist-table table .product-add-to-cart {display: block; width: 168px; padding: 40px 10px}
+    .product-stock-status span, .w-c-price span, .product-name span {display: block; width: 115px}
+    .subtitle label {width: 45%}
+    .my-account-area.pb-50{padding-bottom: 20px}
+    #quickview-wrapper .details-content{margin-left: 0; margin-top: 10px}
+    .shop-details-area .tab-content {margin: 0 10px}
+    .padright {padding-right: 15px}
+    #quickview-wrapper .details-content h2 {font-size: 20px; line-height: 20px}
+    #quickview-wrapper a.add {margin-bottom: 15px; margin-left: 15px}
+    #quickview-wrapper .details-content .price-box span {font-size: 20px; line-height: 24px}
+    #quickview-wrapper .box-to-cart {margin: 10px 0 0}
+    #quickview-wrapper .control{margin-bottom: 15px}
+    a.add{margin-left: 0}
+    .control{margin-right: 20px}
+    .slider-area.four .slider-banner, .five .slider-banner {margin-left: 0px}
+    .owl-carousel .owl-nav div i {font-size: 12px}
+    .footer-area .single-widget form input {padding: 0 110px 0 10px}
+    .offer-area{padding-top: 30px}
+    .blog-page-area .col-md-6:nth-child(4) .single-blog{padding-bottom: 30px}
+    .tab-content-menu{padding-top: 30px}
+/*    .two .slide-two .slider-banner a.banner-btn {margin: 15px 0 0}*/
+    .banner-slider.three .single-slide a {margin: 10px 0 0}
+    .logo.main > a {display: block; margin-bottom: 15px}
+    .three .logo.main > a, .five .logo.main > a {margin-bottom: 0px}
+    .single-slide, .banner-slider.three .single-slide {padding: 70px 0}
+    .single-slide.slide-two, .banner-slider.three .single-slide.slide-two {padding: 72.5px 0}
+    .two .slide-two .slider-banner a.banner-btn, .banner-slider.three .single-slide.slider-two a {margin: 31px 0 0}
+    .banner-slider.three .single-slide.slider-two {padding: 80.5px 0}
+    .slider-area.four .single-slide {padding: 60px 0 74px}
+    .slider-area.four .single-slide.slider-two {padding: 98px 0}
+    .slider-area.five .single-slide {padding: 77px 0 93px}
+    
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .account-usd ul {float: none; text-align: center}
+    .three .feature-tab ul li a {font-size: 15px; padding-left: 18px}
+    .five.three #search-box-form {right: 0}
+    .feature-area .feature-item{margin: 0px}
+    .banner-area .col-6, .blog-page-area .col-6, #list .feature-item .col-6  {flex: 0 0 50%; max-width: 50%}
+    .blog-con h3 a {font-size: 16px; line-height: 22px}
+    #search-box-form input {width: 85%}
+    .collection-area {display: flex}
+    .collection-content h3 {font-size: 16px; letter-spacing: 0; line-height: 20px}
+    .collection-content p {font-size: 25px}
+    .collection-content h2 {font-size: 12px; margin-bottom: 15px; padding-bottom: 15px}
+    .collection-content a.look-book {font-size: 9px; margin-top: 20px; padding: 6px 2px; border: 1px solid #fff}
+    .collection-content a.look-book:hover {border: 1px solid}
+    .col-women-left .products-img {display: flex}
+    .col-women-left .products-img .feature-item{width: 50%}
+    .five.three .header-cart.main > a{top: -9px}
+    .five.three .header-cart.main ul.submenu-mainmenu {top: 145%}
+    .slider-area.four .single-slide.slider-two {padding: 95px 0 93px}
+    .three .feature-tab ul li a, .five.three .feature-tab ul li a {font-size: 14px; padding: 0 14px}
+    .three .mean-container a.meanmenu-reveal {margin-top: -37px}
+    #grid .feature-item {width: 50%}
+    .shop-item-filter, .shop-content-wrapper {display: flex}
+    #list .feature-content p {margin-bottom: 12px; margin-top: 0px}
+    #list .feature-content p a {padding: 0px 0 0px}
+    .sub-img {margin-right: 11px}
+    .comment-information > a {float: right}
+    .banner-slider.three .single-slide.slider-two {padding: 81.5px 0}
+    .banner-slider.four .single-slide.slider-two .slider-banner h2, .banner-slider.four .single-slide.slider-two .slider-banner h3{font-size: 30px}
+    
+}
